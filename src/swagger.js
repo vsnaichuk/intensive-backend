@@ -3,8 +3,8 @@ import config from './config';
 export default {
   swagger: {
     info: {
-      title: 'Apiko API',
-      description: 'API for Apiko fall courses 2019',
+      title: 'Marketplace API',
+      description: '',
       version: '0.1.0',
     },
     servers: [{ url: config.url }],
